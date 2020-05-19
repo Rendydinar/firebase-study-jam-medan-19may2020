@@ -1,3 +1,3 @@
-# firebase-gtk-web-start-rgayjv
+# Firebase Study Jam Medan - 19 Mei 2020
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-gtk-web-start-rgayjv)
+[Hasil Belajar ⚡️](https://fir-study-jam-medan.firebaseapp.com/)
